@@ -1,6 +1,6 @@
-# fitness_tracker_app
+# ApexcifyTechnologys_FitnessTrackerApp
 
-A new Flutter project.
+Fitness Tracker App built using Flutter for Apexcify Technologys Internship
 
 ## Getting Started
 
